@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+
+# Claude Code local session files
+.claude/
